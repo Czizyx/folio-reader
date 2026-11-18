@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.sites-runtime/
+.sites-local/
+.env
+.env.*
+.dev.vars*
+*.tar.gz
+test-results/
